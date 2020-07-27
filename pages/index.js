@@ -25,7 +25,7 @@ export default function Home() {
 
             return (
               <li key={key}>
-                <a href={`https:/bulma.io/${item.path}`} target="_blank">
+                <a href={`https://bulma.io/${item.path}`} target="_blank">
                   {item.name}
                 </a>
               </li>
